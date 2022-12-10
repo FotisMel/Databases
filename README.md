@@ -1,2 +1,2 @@
 # Databases
-University Group Project - Basic mySQL Usage For Database Creation &amp; Management
+University Group Project - Basic mySQL Usage For Database Creation & Management
